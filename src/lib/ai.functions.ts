@@ -44,6 +44,7 @@ Subject: <one concise subject line>
 <clear closing line and sign-off with "[Your name]" as the placeholder>
 Constraints:
 - Match the requested tone exactly.
+- If the recipient is "Not specified", use a neutral greeting such as "Hi all," or "Hello," — never write the words "Not specified" in the email.
 - Keep it under 250 words unless the key points require more.
 - Do not invent company names, figures, dates, attachments or commitments.
 - Return plain text only, no markdown code fences.
